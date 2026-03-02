@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(195, 194, 196);
+}
+
+.titulo{
+    font-style: italic; 
+    text-align: center;
+}
+
+
+.texto{
+    margin-top: 0px;
+}
+
+.content{
+    text-align: center;
+}
+
